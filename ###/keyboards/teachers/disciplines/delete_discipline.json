@@ -1,0 +1,10 @@
+{
+    "delete_discipline": {
+        "text": "Удалить предмет?",
+        "callback_data": "yes_delete_discipline"
+    },
+    "cancel_delete_discipline": {
+        "text": "Отмена",
+        "callback_data": "no_delete_discipline"
+    }
+}

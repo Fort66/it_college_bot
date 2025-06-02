@@ -1,0 +1,10 @@
+{
+    "teacher": {
+        "text": "👨‍🏫 Преподаватель",
+        "callback_data": "teacher"
+    },
+    "student": {
+        "text": "🧑🏻‍🎓 Студент",
+        "callback_data": "student"
+    }
+}

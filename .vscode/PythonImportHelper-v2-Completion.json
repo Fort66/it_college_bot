@@ -1,0 +1,3914 @@
+[
+    {
+        "label": "ReplyKeyboardBuilder",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardBuilder",
+        "importPath": "aiogram.utils.keyboard",
+        "description": "aiogram.utils.keyboard",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "KeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ReplyKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ContentType",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommandScopeDefault",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "isExtraImport": true,
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "ic",
+        "importPath": "icecream",
+        "description": "icecream",
+        "isExtraImport": true,
+        "detail": "icecream",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "importPath": "keyboards.class_Keyboards",
+        "description": "keyboards.class_Keyboards",
+        "isExtraImport": true,
+        "detail": "keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "or_f",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "or_f",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "or_f",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "isExtraImport": true,
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "clear_chat_window",
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "isExtraImport": true,
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "StudentState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherState",
+        "importPath": "states.other_states",
+        "description": "states.other_states",
+        "isExtraImport": true,
+        "detail": "states.other_states",
+        "documentation": {}
+    },
+    {
+        "label": "discipline_selection",
+        "importPath": "routers.discipline.select_discipline",
+        "description": "routers.discipline.select_discipline",
+        "isExtraImport": true,
+        "detail": "routers.discipline.select_discipline",
+        "documentation": {}
+    },
+    {
+        "label": "discipline_selection",
+        "importPath": "routers.discipline.select_discipline",
+        "description": "routers.discipline.select_discipline",
+        "isExtraImport": true,
+        "detail": "routers.discipline.select_discipline",
+        "documentation": {}
+    },
+    {
+        "label": "SingleSelection",
+        "importPath": "classes.class_SingleSelection",
+        "description": "classes.class_SingleSelection",
+        "isExtraImport": true,
+        "detail": "classes.class_SingleSelection",
+        "documentation": {}
+    },
+    {
+        "label": "SingleSelection",
+        "importPath": "classes.class_SingleSelection",
+        "description": "classes.class_SingleSelection",
+        "isExtraImport": true,
+        "detail": "classes.class_SingleSelection",
+        "documentation": {}
+    },
+    {
+        "label": "discipline_selection",
+        "importPath": "routers.discipline.discipline",
+        "description": "routers.discipline.discipline",
+        "isExtraImport": true,
+        "detail": "routers.discipline.discipline",
+        "documentation": {}
+    },
+    {
+        "label": "group_selection",
+        "importPath": "routers.group.select_group",
+        "description": "routers.group.select_group",
+        "isExtraImport": true,
+        "detail": "routers.group.select_group",
+        "documentation": {}
+    },
+    {
+        "label": "group_selection",
+        "importPath": "routers.group.select_group",
+        "description": "routers.group.select_group",
+        "isExtraImport": true,
+        "detail": "routers.group.select_group",
+        "documentation": {}
+    },
+    {
+        "label": "Groups",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "database.models",
+        "description": "database.models",
+        "isExtraImport": true,
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "group_selection",
+        "importPath": "routers.group.group",
+        "description": "routers.group.group",
+        "isExtraImport": true,
+        "detail": "routers.group.group",
+        "documentation": {}
+    },
+    {
+        "label": "StartBot",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "isExtraImport": true,
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "EmailNotValidError",
+        "importPath": "email_validator",
+        "description": "email_validator",
+        "isExtraImport": true,
+        "detail": "email_validator",
+        "documentation": {}
+    },
+    {
+        "label": "validate_email",
+        "importPath": "email_validator",
+        "description": "email_validator",
+        "isExtraImport": true,
+        "detail": "email_validator",
+        "documentation": {}
+    },
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartMode",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "setup_dialogs",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Dialog",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "DialogManager",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartMode",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "Window",
+        "importPath": "aiogram_dialog",
+        "description": "aiogram_dialog",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "MessageInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "TextInput",
+        "importPath": "aiogram_dialog.widgets.input",
+        "description": "aiogram_dialog.widgets.input",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.input",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Start",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Start",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Multiselect",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Start",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Radio",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "ScrollingGroup",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Back",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Cancel",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Start",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "SwitchTo",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "aiogram_dialog.widgets.kbd",
+        "description": "aiogram_dialog.widgets.kbd",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.kbd",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Format",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "Const",
+        "importPath": "aiogram_dialog.widgets.text",
+        "description": "aiogram_dialog.widgets.text",
+        "isExtraImport": true,
+        "detail": "aiogram_dialog.widgets.text",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "importPath": "bot",
+        "description": "bot",
+        "isExtraImport": true,
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "insert",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "event",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Engine",
+        "importPath": "sqlalchemy.engine",
+        "description": "sqlalchemy.engine",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.engine",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "ExitToBot",
+        "importPath": "exit_to_bot.class_ExitToBot",
+        "description": "exit_to_bot.class_ExitToBot",
+        "isExtraImport": true,
+        "detail": "exit_to_bot.class_ExitToBot",
+        "documentation": {}
+    },
+    {
+        "label": "ExitToBot",
+        "importPath": "exit_to_bot.class_ExitToBot",
+        "description": "exit_to_bot.class_ExitToBot",
+        "isExtraImport": true,
+        "detail": "exit_to_bot.class_ExitToBot",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "isExtraImport": true,
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "isExtraImport": true,
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "isExtraImport": true,
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "isExtraImport": true,
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "isExtraImport": true,
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "StartState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "StartState",
+        "importPath": "states",
+        "description": "states",
+        "isExtraImport": true,
+        "detail": "states",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherDialog",
+        "importPath": "dialogs.class_TeacherDialog",
+        "description": "dialogs.class_TeacherDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_TeacherDialog",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherDialog",
+        "importPath": "dialogs.class_TeacherDialog",
+        "description": "dialogs.class_TeacherDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_TeacherDialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartState",
+        "importPath": "states.start_states",
+        "description": "states.start_states",
+        "isExtraImport": true,
+        "detail": "states.start_states",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "MemoryStorage",
+        "importPath": "aiogram.fsm.storage.memory",
+        "description": "aiogram.fsm.storage.memory",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.memory",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineDialog",
+        "importPath": "dialogs.class_DisciplineDialog",
+        "description": "dialogs.class_DisciplineDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_DisciplineDialog",
+        "documentation": {}
+    },
+    {
+        "label": "QuestDialog",
+        "importPath": "dialogs.class_QuestDialog",
+        "description": "dialogs.class_QuestDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_QuestDialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartDialog",
+        "importPath": "dialogs.class_StartDialog",
+        "description": "dialogs.class_StartDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_StartDialog",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerDialog",
+        "importPath": "dialogs.class_AnswerDialog",
+        "description": "dialogs.class_AnswerDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_AnswerDialog",
+        "documentation": {}
+    },
+    {
+        "label": "GroupsDialog",
+        "importPath": "dialogs.class_GroupDialog",
+        "description": "dialogs.class_GroupDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_GroupDialog",
+        "documentation": {}
+    },
+    {
+        "label": "StudentListDialog",
+        "importPath": "dialogs.class_StudentListDialog",
+        "description": "dialogs.class_StudentListDialog",
+        "isExtraImport": true,
+        "detail": "dialogs.class_StudentListDialog",
+        "documentation": {}
+    },
+    {
+        "label": "main_menu_commands",
+        "importPath": "source",
+        "description": "source",
+        "isExtraImport": true,
+        "detail": "source",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "SingleSelection",
+        "kind": 6,
+        "importPath": "###.classes.class_SingleSelection",
+        "description": "###.classes.class_SingleSelection",
+        "peekOfCode": "class SingleSelection:\n    def __init__(self):\n        self.value = None\n        self.data = None",
+        "detail": "###.classes.class_SingleSelection",
+        "documentation": {}
+    },
+    {
+        "label": "Keyboards",
+        "kind": 6,
+        "importPath": "###.keyboards.class_Keyboards",
+        "description": "###.keyboards.class_Keyboards",
+        "peekOfCode": "class Keyboards:\n    def __init__(self, json_file=None, data=None):\n        self.reply_kb = ReplyKeyboardBuilder()\n        self.inline_kb = InlineKeyboardBuilder()\n        self.data = data\n        self.json_file = json_file\n        self.__post_init__()\n    def __post_init__(self):\n        if self.json_file:\n            self.json_data = load_file(self.json_file, True)",
+        "detail": "###.keyboards.class_Keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "Navigation",
+        "kind": 6,
+        "importPath": "###.keyboards.class_Navigation",
+        "description": "###.keyboards.class_Navigation",
+        "peekOfCode": "class Navigation:\n    def __init__(self):\n        self.teacher_nav_list = {\n            'keyboards/teachers/main': {\n                'keyboards/teachers/disciplines': None\n            }\n        }\n        self.teacher_nav_list_index = 0\n        self.student_nav_list = []\n        self.student_nav_list_index = 0",
+        "detail": "###.keyboards.class_Navigation",
+        "documentation": {}
+    },
+    {
+        "label": "create_discipline_router",
+        "kind": 5,
+        "importPath": "###.routers.discipline.create_discipline",
+        "description": "###.routers.discipline.create_discipline",
+        "peekOfCode": "create_discipline_router = Router()\n@create_discipline_router.callback_query(or_f(F.data.startswith(\"create_discipline\"),F.data.startswith(\"edit_discipline\")))\nasync def create_discipline(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await bot.edit_message_text(\n        chat_id=call.message.chat.id,\n        message_id=call.message.message_id,\n        text=load_file(\"messages/teachers/disciplines/add_discipline_name\"),\n        reply_markup=None,\n    )\n    await state.set_state(DisciplineState.name)",
+        "detail": "###.routers.discipline.create_discipline",
+        "documentation": {}
+    },
+    {
+        "label": "delete_discipline_router",
+        "kind": 5,
+        "importPath": "###.routers.discipline.delete_discipline",
+        "description": "###.routers.discipline.delete_discipline",
+        "peekOfCode": "delete_discipline_router = Router()\n@delete_discipline_router.callback_query(F.data.startswith(\"delete_discipline\"))\nasync def create_discipline(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await call.answer()\n    kb = Keyboards('keyboards/teachers/disciplines/delete_discipline')\n    await bot.send_message(chat_id=call.from_user.id, text=load_file(\"messages/teachers/disciplines/delete_discipline\"), reply_markup=await kb.inline_kb_generator(2))\n@delete_discipline_router.callback_query(F.data.startswith(\"yes_delete_discipline\"))\nasync def create_discipline(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await call.message.delete()\n    db = Database()",
+        "detail": "###.routers.discipline.delete_discipline",
+        "documentation": {}
+    },
+    {
+        "label": "discipline_selection",
+        "kind": 5,
+        "importPath": "###.routers.discipline.discipline",
+        "description": "###.routers.discipline.discipline",
+        "peekOfCode": "discipline_selection = SingleSelection()\ndiscipline_router = Router()\ndb = Database()\n@discipline_router.callback_query(F.data.startswith('disciplines'))\nasync def discipline_view(call: CallbackQuery, bot: Bot):\n    disciplines = await db.get_disciplines(str(call.from_user.id))\n    # await call.message.delete()\n    if disciplines:\n        data = {}\n        for discipline in disciplines:",
+        "detail": "###.routers.discipline.discipline",
+        "documentation": {}
+    },
+    {
+        "label": "discipline_router",
+        "kind": 5,
+        "importPath": "###.routers.discipline.discipline",
+        "description": "###.routers.discipline.discipline",
+        "peekOfCode": "discipline_router = Router()\ndb = Database()\n@discipline_router.callback_query(F.data.startswith('disciplines'))\nasync def discipline_view(call: CallbackQuery, bot: Bot):\n    disciplines = await db.get_disciplines(str(call.from_user.id))\n    # await call.message.delete()\n    if disciplines:\n        data = {}\n        for discipline in disciplines:\n            data[f\"{discipline.id}\"] = {",
+        "detail": "###.routers.discipline.discipline",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "###.routers.discipline.discipline",
+        "description": "###.routers.discipline.discipline",
+        "peekOfCode": "db = Database()\n@discipline_router.callback_query(F.data.startswith('disciplines'))\nasync def discipline_view(call: CallbackQuery, bot: Bot):\n    disciplines = await db.get_disciplines(str(call.from_user.id))\n    # await call.message.delete()\n    if disciplines:\n        data = {}\n        for discipline in disciplines:\n            data[f\"{discipline.id}\"] = {\n                \"text\": f\"{discipline.name}\",",
+        "detail": "###.routers.discipline.discipline",
+        "documentation": {}
+    },
+    {
+        "label": "select_discipline_router",
+        "kind": 5,
+        "importPath": "###.routers.discipline.select_discipline",
+        "description": "###.routers.discipline.select_discipline",
+        "peekOfCode": "select_discipline_router = Router()\n@select_discipline_router.callback_query(F.data.startswith(\"select_discipline\"))\nasync def create_discipline(call: CallbackQuery, bot: Bot):\n    discipline_id = call.data.split(\"_\")[-1]\n    discipline_selection.value = discipline_id\n    await call.answer()\n    for value in discipline_selection.data.keys():\n        if value == discipline_id and discipline_selection.data[value][\"text\"].startswith(\"✅\"):\n            discipline_selection.value = None\n            discipline_selection.data[value][\"text\"] = discipline_selection.data[",
+        "detail": "###.routers.discipline.select_discipline",
+        "documentation": {}
+    },
+    {
+        "label": "create_group_router",
+        "kind": 5,
+        "importPath": "###.routers.group.create_group",
+        "description": "###.routers.group.create_group",
+        "peekOfCode": "create_group_router = Router()\n@create_group_router.callback_query(or_f(F.data.startswith(\"create_group\"),F.data.startswith(\"edit_group\")))\nasync def create_group(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await bot.edit_message_text(\n        chat_id=call.message.chat.id,\n        message_id=call.message.message_id,\n        text=load_file(\"messages/teachers/groups/add_group_name\"),\n        reply_markup=None,\n    )\n    await state.set_state(GroupState.name)",
+        "detail": "###.routers.group.create_group",
+        "documentation": {}
+    },
+    {
+        "label": "delete_group_router",
+        "kind": 5,
+        "importPath": "###.routers.group.delete_group",
+        "description": "###.routers.group.delete_group",
+        "peekOfCode": "delete_group_router = Router()\n@delete_group_router.callback_query(F.data.startswith(\"delete_group\"))\nasync def create_group(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await call.answer()\n    kb = Keyboards('keyboards/teachers/groups/delete_group')\n    await bot.send_message(chat_id=call.from_user.id, text=load_file(\"messages/teachers/groups/delete_group\"), reply_markup=await kb.inline_kb_generator(2))\n@delete_group_router.callback_query(F.data.startswith(\"yes_delete_group\"))\nasync def create_group(call: CallbackQuery, state: FSMContext, bot: Bot):\n    await call.message.delete()\n    db = Database()",
+        "detail": "###.routers.group.delete_group",
+        "documentation": {}
+    },
+    {
+        "label": "group_selection",
+        "kind": 5,
+        "importPath": "###.routers.group.group",
+        "description": "###.routers.group.group",
+        "peekOfCode": "group_selection = SingleSelection()\ngroup_router = Router()\ndb = Database()\n@group_router.callback_query(F.data.startswith('groups'))\nasync def group_view(call: CallbackQuery, bot: Bot):\n    groups = await db.get_table(Groups)\n    # await call.message.delete()\n    if groups:\n        data = {}\n        for group in groups:",
+        "detail": "###.routers.group.group",
+        "documentation": {}
+    },
+    {
+        "label": "group_router",
+        "kind": 5,
+        "importPath": "###.routers.group.group",
+        "description": "###.routers.group.group",
+        "peekOfCode": "group_router = Router()\ndb = Database()\n@group_router.callback_query(F.data.startswith('groups'))\nasync def group_view(call: CallbackQuery, bot: Bot):\n    groups = await db.get_table(Groups)\n    # await call.message.delete()\n    if groups:\n        data = {}\n        for group in groups:\n            data[f\"{group.id}\"] = {",
+        "detail": "###.routers.group.group",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "###.routers.group.group",
+        "description": "###.routers.group.group",
+        "peekOfCode": "db = Database()\n@group_router.callback_query(F.data.startswith('groups'))\nasync def group_view(call: CallbackQuery, bot: Bot):\n    groups = await db.get_table(Groups)\n    # await call.message.delete()\n    if groups:\n        data = {}\n        for group in groups:\n            data[f\"{group.id}\"] = {\n                \"text\": f\"{group.name}\",",
+        "detail": "###.routers.group.group",
+        "documentation": {}
+    },
+    {
+        "label": "select_group_router",
+        "kind": 5,
+        "importPath": "###.routers.group.select_group",
+        "description": "###.routers.group.select_group",
+        "peekOfCode": "select_group_router = Router()\n@select_group_router.callback_query(F.data.startswith(\"select_group\"))\nasync def create_group(call: CallbackQuery, bot: Bot):\n    group_id = call.data.split(\"_\")[-1]\n    group_selection.value = group_id\n    await call.answer()\n    for value in group_selection.data.keys():\n        if value == group_id and group_selection.data[value][\"text\"].startswith(\"✅\"):\n            group_selection.value = None\n            group_selection.data[value][\"text\"] = group_selection.data[",
+        "detail": "###.routers.group.select_group",
+        "documentation": {}
+    },
+    {
+        "label": "start_router",
+        "kind": 5,
+        "importPath": "###.routers.start.start",
+        "description": "###.routers.start.start",
+        "peekOfCode": "start_router = Router()\ndb = Database()\n@start_router.message(CommandStart())\nasync def start(message: Message, bot: Bot):\n    await clear_chat(message, bot)\n    kb = Keyboards(\"keyboards/general/profile\")\n    await bot.send_message(\n        message.from_user.id,\n        load_file(\"messages/general/start\"),\n        reply_markup=await kb.inline_kb_generator(),",
+        "detail": "###.routers.start.start",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "###.routers.start.start",
+        "description": "###.routers.start.start",
+        "peekOfCode": "db = Database()\n@start_router.message(CommandStart())\nasync def start(message: Message, bot: Bot):\n    await clear_chat(message, bot)\n    kb = Keyboards(\"keyboards/general/profile\")\n    await bot.send_message(\n        message.from_user.id,\n        load_file(\"messages/general/start\"),\n        reply_markup=await kb.inline_kb_generator(),\n    )",
+        "detail": "###.routers.start.start",
+        "documentation": {}
+    },
+    {
+        "label": "student_router",
+        "kind": 5,
+        "importPath": "###.routers.student.student",
+        "description": "###.routers.student.student",
+        "peekOfCode": "student_router = Router()\n# @student_router.callback_query(F.data == load_file('keyboards/general/profile', True)['student']['callback_data'])\n# async def teacher(call: CallbackQuery, state: FSMContext, bot: Bot):\n#     await state.clear()\n#     db = Database()\n#     await call.answer()\n#     await call.message.delete()\n#     await state.set_state(TeacherState.name)\n#     await call.message.answer(load_file('messages_texts/check_access_to_profile', True)['check_access'])\n# @student_router.message(TeacherState.name)",
+        "detail": "###.routers.student.student",
+        "documentation": {}
+    },
+    {
+        "label": "teacher_router",
+        "kind": 5,
+        "importPath": "###.routers.teacher.teacher",
+        "description": "###.routers.teacher.teacher",
+        "peekOfCode": "teacher_router = Router()\ndb = Database()\n@teacher_router.callback_query(F.data == \"teacher\")\nasync def teacher(call: CallbackQuery, state: FSMContext, bot: Bot):\n    # await state.clear()\n    # await call.message.delete()\n    reg_complete = await db.get_teacher_id(str(call.from_user.id))\n    if reg_complete is not None:\n        kb = Keyboards(\"keyboards/teachers/general/main\")\n        await call.message.edit_text(",
+        "detail": "###.routers.teacher.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "###.routers.teacher.teacher",
+        "description": "###.routers.teacher.teacher",
+        "peekOfCode": "db = Database()\n@teacher_router.callback_query(F.data == \"teacher\")\nasync def teacher(call: CallbackQuery, state: FSMContext, bot: Bot):\n    # await state.clear()\n    # await call.message.delete()\n    reg_complete = await db.get_teacher_id(str(call.from_user.id))\n    if reg_complete is not None:\n        kb = Keyboards(\"keyboards/teachers/general/main\")\n        await call.message.edit_text(\n            text=f\"{load_file('messages/teachers/general/access_open')} {reg_complete.name}!\",",
+        "detail": "###.routers.teacher.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"it_college_bot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"it_college_bot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"it_college_bot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"it_college_bot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"it_college_bot\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "kind": 6,
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "peekOfCode": "class Service:\n    @staticmethod\n    async def on_object_selected(\n        sender,\n        callback: CallbackQuery,\n        widget: Any,\n        dialog_manager: DialogManager,\n        item_id: str,\n    ):\n        sender.item_id = item_id",
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "classes.class_Service",
+        "description": "classes.class_Service",
+        "peekOfCode": "db = Database()\nclass Service:\n    @staticmethod\n    async def on_object_selected(\n        sender,\n        callback: CallbackQuery,\n        widget: Any,\n        dialog_manager: DialogManager,\n        item_id: str,\n    ):",
+        "detail": "classes.class_Service",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "kind": 6,
+        "importPath": "database.class_Database",
+        "description": "database.class_Database",
+        "peekOfCode": "class Database:\n    def __init__(self):\n        self.engine = create_async_engine('sqlite+aiosqlite:///it_college.db')\n        self.Session = async_sessionmaker(self.engine, class_=AsyncSession, expire_on_commit=False)\n    async def create_tables(self):\n        async with self.engine.begin() as connect:\n            await connect.run_sync(Base.metadata.create_all)\n    async def get_table(self, table_name):\n        async with self.Session() as session:\n            result = await session.execute(select(table_name))",
+        "detail": "database.class_Database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\nclass TypeExam(Base):\n    __tablename__ = \"type_exam\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    text = Column(String(100), nullable=False)\nclass Admins(Base):\n    __tablename__ = \"admins\"\n    id = Column(String(100), primary_key=True, index=True, autoincrement=False)\n    username = Column(String(100))",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "TypeExam",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class TypeExam(Base):\n    __tablename__ = \"type_exam\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    text = Column(String(100), nullable=False)\nclass Admins(Base):\n    __tablename__ = \"admins\"\n    id = Column(String(100), primary_key=True, index=True, autoincrement=False)\n    username = Column(String(100))\n    main_admin = Column(Boolean)\nclass Teachers(Base):",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Admins",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Admins(Base):\n    __tablename__ = \"admins\"\n    id = Column(String(100), primary_key=True, index=True, autoincrement=False)\n    username = Column(String(100))\n    main_admin = Column(Boolean)\nclass Teachers(Base):\n    __tablename__ = \"teachers\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    user_id = Column(String(100))\n    text = Column(String(100), nullable=False)",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teachers",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Teachers(Base):\n    __tablename__ = \"teachers\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    user_id = Column(String(100))\n    text = Column(String(100), nullable=False)\n    username = Column(String(100))\n    email = Column(String(100), nullable=False)\n    disciplines = relationship(\"Disciplines\", back_populates=\"teachers\", cascade=\"all, delete\", passive_deletes=True)\n    groups = relationship(\"Groups\", back_populates=\"teachers\", cascade=\"all, delete\", passive_deletes=True)\nclass Disciplines(Base):",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Disciplines",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Disciplines(Base):\n    __tablename__ = \"disciplines\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(String(100), ForeignKey(\"teachers.id\"), nullable=False)\n    text = Column(String(100), nullable=False)\n    teachers = relationship(\"Teachers\", back_populates=\"disciplines\")\n    questions = relationship(\"Quests\", back_populates=\"disciplines\", cascade=\"all, delete\", passive_deletes=True)\n    tasks = relationship(\"Tasks\", back_populates=\"disciplines\", cascade=\"all, delete\", passive_deletes=True)\nclass Quests(Base):\n    __tablename__ = \"quest\"",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Quests",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Quests(Base):\n    __tablename__ = \"quest\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(Integer, ForeignKey(\"disciplines.id\", ondelete=\"CASCADE\"), nullable=False)\n    text = Column(Text, nullable=False)\n    disciplines = relationship(\"Disciplines\", back_populates=\"questions\")\n    answers = relationship(\"Answers\", back_populates=\"questions\", cascade=\"all, delete\", passive_deletes=True)\nclass Answers(Base):\n    __tablename__ = \"answers\"\n    id = Column(Integer, primary_key=True, autoincrement=True)",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Answers",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Answers(Base):\n    __tablename__ = \"answers\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(Integer, ForeignKey(\"quest.id\", ondelete=\"CASCADE\"), nullable=False)\n    text = Column(Text, nullable=False)\n    is_correct = Column(Integer, nullable=False)\n    questions = relationship(\"Quests\", back_populates=\"answers\")\nclass Tasks(Base):\n    __tablename__ = \"tasks\"\n    id = Column(Integer, primary_key=True, autoincrement=True)",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tasks",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Tasks(Base):\n    __tablename__ = \"tasks\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(Integer, ForeignKey(\"disciplines.id\", ondelete=\"CASCADE\"), nullable=False)\n    text = Column(Text, nullable=False)\n    exampl = Column(Text)\n    disciplines = relationship(\"Disciplines\", back_populates=\"tasks\")\nclass Groups(Base):\n    __tablename__ = \"groups\"\n    id = Column(Integer, primary_key=True, autoincrement=True)",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Groups",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Groups(Base):\n    __tablename__ = \"groups\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(Integer, ForeignKey(\"teachers.id\"), nullable=False)\n    text = Column(String(100), nullable=False)\n    teachers = relationship(\"Teachers\", back_populates=\"groups\")\n    students = relationship(\"Students\", back_populates=\"groups\", cascade=\"all, delete\", passive_deletes=True)\nclass Students(Base):\n    __tablename__ = \"students\"\n    id = Column(Integer, primary_key=True, autoincrement=True)",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Students",
+        "kind": 6,
+        "importPath": "database.models",
+        "description": "database.models",
+        "peekOfCode": "class Students(Base):\n    __tablename__ = \"students\"\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    object_id = Column(Integer, ForeignKey(\"groups.id\", ondelete=\"CASCADE\"), nullable=False)\n    user_id = Column(String(100))\n    username = Column(String(100))\n    text = Column(String(100), nullable=False)\n    email = Column(String(100))\n    groups = relationship(\"Groups\", back_populates=\"students\")\n# class DateExam(Base):",
+        "detail": "database.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_AnswerDialog",
+        "description": "dialogs.class_AnswerDialog",
+        "peekOfCode": "class AnswerDialog:\n    quest_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(Format(\"Ответы на вопрос: {quest_text}\"), self.paginated_answers(self.on_object_selected),\n                Group(\n                    Button(Const(\"🆕 Добавить ответ\"), id=\"create_answer\", on_click=partial(self.check_selected, id=\"create_answer\")),\n                    Button(Const(\"📝 Редактировать ответ\"),id=\"edit_answer\", on_click=partial(self.check_selected, id=\"edit_answer\")),\n                    Button(Const(\"🗑 Удалить ответ\"), id=\"delete_answer\", on_click=partial(self.check_selected, id=\"delete_answer\")),",
+        "detail": "dialogs.class_AnswerDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_AnswerDialog",
+        "description": "dialogs.class_AnswerDialog",
+        "peekOfCode": "db = Database()\nanswer_stack = AnswersStack()\nfrom icecream import ic\nclass AnswerDialog:\n    quest_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(Format(\"Ответы на вопрос: {quest_text}\"), self.paginated_answers(self.on_object_selected),\n                Group(",
+        "detail": "dialogs.class_AnswerDialog",
+        "documentation": {}
+    },
+    {
+        "label": "answer_stack",
+        "kind": 5,
+        "importPath": "dialogs.class_AnswerDialog",
+        "description": "dialogs.class_AnswerDialog",
+        "peekOfCode": "answer_stack = AnswersStack()\nfrom icecream import ic\nclass AnswerDialog:\n    quest_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(Format(\"Ответы на вопрос: {quest_text}\"), self.paginated_answers(self.on_object_selected),\n                Group(\n                    Button(Const(\"🆕 Добавить ответ\"), id=\"create_answer\", on_click=partial(self.check_selected, id=\"create_answer\")),",
+        "detail": "dialogs.class_AnswerDialog",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncInit",
+        "kind": 6,
+        "importPath": "dialogs.class_AsyncInit",
+        "description": "dialogs.class_AsyncInit",
+        "peekOfCode": "class AsyncInit(type):\n    async def __call__(cls, *args, **kwargs):\n        instance = cls.__new__(cls, *args, **kwargs)\n        if isinstance(instance, cls):\n            await instance.__init__(*args, **kwargs)\n        return instance",
+        "detail": "dialogs.class_AsyncInit",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_DisciplineDialog",
+        "description": "dialogs.class_DisciplineDialog",
+        "peekOfCode": "class DisciplineDialog:\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Ваши предметы</b>\"),\n                self.paginated_disciplines(self.on_object_selected),\n                Group(\n                    SwitchTo(\n                        Const(\"🆕 Добавить предмет\"),",
+        "detail": "dialogs.class_DisciplineDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_DisciplineDialog",
+        "description": "dialogs.class_DisciplineDialog",
+        "peekOfCode": "db = Database()\nclass DisciplineDialog:\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Ваши предметы</b>\"),\n                self.paginated_disciplines(self.on_object_selected),\n                Group(\n                    SwitchTo(",
+        "detail": "dialogs.class_DisciplineDialog",
+        "documentation": {}
+    },
+    {
+        "label": "GroupsDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_GroupDialog",
+        "description": "dialogs.class_GroupDialog",
+        "peekOfCode": "class GroupsDialog:\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Ваши группы</b>\"),\n                self.paginated_groups(self.on_object_selected),\n                Group(\n                    SwitchTo(\n                        Const(\"🆕 Добавить группу\"),",
+        "detail": "dialogs.class_GroupDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_GroupDialog",
+        "description": "dialogs.class_GroupDialog",
+        "peekOfCode": "db = Database()\nclass GroupsDialog:\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Ваши группы</b>\"),\n                self.paginated_groups(self.on_object_selected),\n                Group(\n                    SwitchTo(",
+        "detail": "dialogs.class_GroupDialog",
+        "documentation": {}
+    },
+    {
+        "label": "QuestDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_QuestDialog",
+        "description": "dialogs.class_QuestDialog",
+        "peekOfCode": "class QuestDialog:\n    discipline_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(Format(\"<b>Вопросы по предмету:</b>\\n{discipline_text}\"), self.paginated_questions(self.on_object_selected),\n                Group(\n                    SwitchTo(Const(\"🆕 Добавить вопрос\"), id=\"create_quest\", state=QuestionState.create_quest),\n                    Button(Const(\"📝 Редактировать вопрос\"),id=\"edit_quest\", on_click=partial(self.check_selected, id=\"edit_quest\")),\n                    Button(Const(\"🗑 Удалить вопрос\"), id=\"delete_quest\", on_click=partial(self.check_selected, id=\"delete_quest\")),",
+        "detail": "dialogs.class_QuestDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_QuestDialog",
+        "description": "dialogs.class_QuestDialog",
+        "peekOfCode": "db = Database()\n# from keyboards.keyboards import paginated_questions\nfrom icecream import ic\nclass QuestDialog:\n    discipline_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(Format(\"<b>Вопросы по предмету:</b>\\n{discipline_text}\"), self.paginated_questions(self.on_object_selected),\n                Group(",
+        "detail": "dialogs.class_QuestDialog",
+        "documentation": {}
+    },
+    {
+        "label": "StartDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_StartDialog",
+        "description": "dialogs.class_StartDialog",
+        "peekOfCode": "class StartDialog:\n    dialog = Dialog(\n        Window(\n            Const(\"Привет! Я бот для принятия зачётов и экзаменов!\\n\\nᅠᅠᅠᅠᅠᅠВыберите свой профиль! 👇\"),\n            Group(\n                Button(\n                    Const(\"👨‍🏫 Преподаватель\"),\n                    id=\"teacher\",\n                    on_click=TeacherDialog.user,\n                ),",
+        "detail": "dialogs.class_StartDialog",
+        "documentation": {}
+    },
+    {
+        "label": "StudentListDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_StudentListDialog",
+        "description": "dialogs.class_StudentListDialog",
+        "peekOfCode": "class StudentListDialog:\n    group_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Список студентов группы</b>\"),\n                self.paginated_students_list(self.on_object_selected),\n                Group(\n                    SwitchTo(",
+        "detail": "dialogs.class_StudentListDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_StudentListDialog",
+        "description": "dialogs.class_StudentListDialog",
+        "peekOfCode": "db = Database()\nclass StudentListDialog:\n    group_id = None\n    item_id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\"<b>Список студентов группы</b>\"),\n                self.paginated_students_list(self.on_object_selected),\n                Group(",
+        "detail": "dialogs.class_StudentListDialog",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherDialog",
+        "kind": 6,
+        "importPath": "dialogs.class_TeacherDialog",
+        "description": "dialogs.class_TeacherDialog",
+        "peekOfCode": "class TeacherDialog:\n    id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\n                    \"ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠУпс 😧\\nНе нахожу Вас в списке зарегистрированных преподавателей.\\nВозможно Вас нет в базе, или процесс регистрации не завершён.\\nВведите, пожалуйста, свои имя, отчество и фамилию в формате:\\nᅠᅠᅠᅠᅠᅠᅠᅠ👉 Имя Отчество Фамилия 👈\\nи я проверю Вас по базе данных! 🕵🏻‍♂️\"\n                    ),\n                TextInput(\n                    id=\"input_teacher_name\",",
+        "detail": "dialogs.class_TeacherDialog",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "dialogs.class_TeacherDialog",
+        "description": "dialogs.class_TeacherDialog",
+        "peekOfCode": "db = Database()\nclass TeacherDialog:\n    id = None\n    def __init__(self):\n        self.dialog = Dialog(\n            Window(\n                Const(\n                    \"ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠУпс 😧\\nНе нахожу Вас в списке зарегистрированных преподавателей.\\nВозможно Вас нет в базе, или процесс регистрации не завершён.\\nВведите, пожалуйста, свои имя, отчество и фамилию в формате:\\nᅠᅠᅠᅠᅠᅠᅠᅠ👉 Имя Отчество Фамилия 👈\\nи я проверю Вас по базе данных! 🕵🏻‍♂️\"\n                    ),\n                TextInput(",
+        "detail": "dialogs.class_TeacherDialog",
+        "documentation": {}
+    },
+    {
+        "label": "ExitToBot",
+        "kind": 6,
+        "importPath": "exit_to_bot.class_ExitToBot",
+        "description": "exit_to_bot.class_ExitToBot",
+        "peekOfCode": "class ExitToBot:\n    @classmethod\n    async def exit_to_bot(\n        call: CallbackQuery, widget: Any, dialog_manager: DialogManager, *args, **kwargs\n    ):\n        # await clear_chat_window(call.message, call.bot)\n        # await call.message.edit_text(\"Всего доброго! До следующей встречи.\")\n        await dialog_manager.switch_to(StartState.exit)\n        # await dialog_manager.done()\n        await call.answer(\"Всего доброго! До следующей встречи.\")",
+        "detail": "exit_to_bot.class_ExitToBot",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "functions.clear_chat",
+        "description": "functions.clear_chat",
+        "peekOfCode": "db = Database()\nfrom icecream import ic\nasync def clear_chat_window(message: Message, bot: Bot):\n    try:\n        for item in range(message.message_id, 0, -1):\n            await bot.delete_message(message.from_user.id, item)\n    except TelegramBadRequest:\n        pass",
+        "detail": "functions.clear_chat",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "kind": 2,
+        "importPath": "functions.load_json_file",
+        "description": "functions.load_json_file",
+        "peekOfCode": "def load_file(json_file, buttons=False):\n    with open(f'{json_file}.json', 'r', encoding='utf-8') as json_file:\n        if buttons:\n            return json.load(json_file)\n        else:\n            result = \"\"\n            list_objects = json.load(json_file)[\"text\"]\n            for item in list_objects:\n                if len(list_objects) > 1:\n                    result += f\"{item}\\n\"",
+        "detail": "functions.load_json_file",
+        "documentation": {}
+    },
+    {
+        "label": "AnswersStack",
+        "kind": 6,
+        "importPath": "states.answers_stack",
+        "description": "states.answers_stack",
+        "peekOfCode": "class AnswersStack(StatesGroup):\n    answer_amount = 0",
+        "detail": "states.answers_stack",
+        "documentation": {}
+    },
+    {
+        "label": "StartState",
+        "kind": 6,
+        "importPath": "states.start_states",
+        "description": "states.start_states",
+        "peekOfCode": "class StartState(StatesGroup):\n    start = State()\n    teachers = State()\n    students = State()\n    exit = State()",
+        "detail": "states.start_states",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class TeacherState(StatesGroup):\n    telegram_id = State()\n    telegram_name = State()\n    name = State()\n    email = State()\n    success_registry = State()\n    is_registry = State()\n    not_found = State()\nclass DisciplineState(StatesGroup):\n    start = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "DisciplineState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class DisciplineState(StatesGroup):\n    start = State()\n    create_discipline = State()\n    edit_discipline = State()\n    delete_discipline = State()\n    is_delete = State()\nclass QuestionState(StatesGroup):\n    start = State()\n    create_quest = State()\n    edit_quest = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class QuestionState(StatesGroup):\n    start = State()\n    create_quest = State()\n    edit_quest = State()\n    delete_quest = State()\n    selected_quest = State()\n    is_delete = State()\nclass AnswerState(StatesGroup):\n    start = State()\n    create_answer = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "AnswerState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class AnswerState(StatesGroup):\n    start = State()\n    create_answer = State()\n    add_answer = State()\n    edit_answer = State()\n    delete_answer = State()\n    is_correct = State()\n    check_right_answer = State()\n    is_delete = State()\nclass GroupState(StatesGroup):",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class GroupState(StatesGroup):\n    start = State()\n    create_group = State()\n    edit_group = State()\n    delete_group = State()\n    is_delete = State()\nclass StudentListState(StatesGroup):\n    start = State()\n    create_student = State()\n    edit_student = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "StudentListState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class StudentListState(StatesGroup):\n    start = State()\n    create_student = State()\n    edit_student = State()\n    delete_student = State()\n    is_delete = State()\nclass StudentState(StatesGroup):\n    start = State()\n    not_registry = State()\n    is_registry = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "StudentState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class StudentState(StatesGroup):\n    start = State()\n    not_registry = State()\n    is_registry = State()\n    not_found = State()\nclass ExamState(StatesGroup):\n    start = State()\n    create_exam = State()\n    edit_exam = State()\n    delete_exam = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "ExamState",
+        "kind": 6,
+        "importPath": "states.teacher_states",
+        "description": "states.teacher_states",
+        "peekOfCode": "class ExamState(StatesGroup):\n    start = State()\n    create_exam = State()\n    edit_exam = State()\n    delete_exam = State()",
+        "detail": "states.teacher_states",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "bot",
+        "description": "bot",
+        "peekOfCode": "bot = Bot(token=os.getenv(\"TOKEN_BOT\"))",
+        "detail": "bot",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "storage = MemoryStorage()\ndp = Dispatcher(storage=storage)\ndialogues = [\n    StartDialog().dialog,\n    TeacherDialog().dialog,\n    DisciplineDialog().dialog,\n    QuestDialog().dialog,\n    AnswerDialog().dialog,\n    GroupsDialog().dialog,\n    StudentListDialog().dialog,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "dp = Dispatcher(storage=storage)\ndialogues = [\n    StartDialog().dialog,\n    TeacherDialog().dialog,\n    DisciplineDialog().dialog,\n    QuestDialog().dialog,\n    AnswerDialog().dialog,\n    GroupsDialog().dialog,\n    StudentListDialog().dialog,\n]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "dialogues",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "dialogues = [\n    StartDialog().dialog,\n    TeacherDialog().dialog,\n    DisciplineDialog().dialog,\n    QuestDialog().dialog,\n    AnswerDialog().dialog,\n    GroupsDialog().dialog,\n    StudentListDialog().dialog,\n]\nsetup_dialogs(dp)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "MainMenuStates",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class MainMenuStates(Enum):\n    MAIN = \"main\"\nclass SettingsStates(Enum):\n    SETTINGS_MENU = \"settings_menu\"\n# Окно главного меню\nmain_menu = Dialog(\n    Window(\n        Const(\"Главное меню\"),\n        Button(Const(\"Настройки\"), id=\"settings\", on_click=lambda c, b, m: m.start(SettingsStates.SETTINGS_MENU, mode=StartMode.NEW_STACK)),\n        state=MainMenuStates.MAIN,",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "SettingsStates",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class SettingsStates(Enum):\n    SETTINGS_MENU = \"settings_menu\"\n# Окно главного меню\nmain_menu = Dialog(\n    Window(\n        Const(\"Главное меню\"),\n        Button(Const(\"Настройки\"), id=\"settings\", on_click=lambda c, b, m: m.start(SettingsStates.SETTINGS_MENU, mode=StartMode.NEW_STACK)),\n        state=MainMenuStates.MAIN,\n    )\n)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "main_menu",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "main_menu = Dialog(\n    Window(\n        Const(\"Главное меню\"),\n        Button(Const(\"Настройки\"), id=\"settings\", on_click=lambda c, b, m: m.start(SettingsStates.SETTINGS_MENU, mode=StartMode.NEW_STACK)),\n        state=MainMenuStates.MAIN,\n    )\n)\n# Окно настроек\nsettings_menu = Dialog(\n    Window(",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "settings_menu",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "settings_menu = Dialog(\n    Window(\n        Const(\"Меню настроек\"),\n        Button(Const(\"Назад\"), id=\"back\", on_click=lambda c, b, m: m.done()),\n        state=SettingsStates.SETTINGS_MENU,\n    )\n)\n# Обработчик /start\nasync def start(message: Message, dialog_manager: DialogManager):\n    await dialog_manager.start(MainMenuStates.MAIN, mode=StartMode.RESET_STACK)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "bot",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "bot = Bot(token=\"7205076132:AAHS4bKNtfg3gD3PB7iHsszj1ZEH9rnYVtU\")\ndp = Dispatcher()\ndp.include_router(main_menu)\ndp.include_router(settings_menu)\n# dp.message.middleware(SetupMiddleware())\ndp.message.register(start, F.text == \"/start\")\nif __name__ == \"__main__\":\n    import asyncio\n    asyncio.run(dp.start_polling(bot))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "dp",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "dp = Dispatcher()\ndp.include_router(main_menu)\ndp.include_router(settings_menu)\n# dp.message.middleware(SetupMiddleware())\ndp.message.register(start, F.text == \"/start\")\nif __name__ == \"__main__\":\n    import asyncio\n    asyncio.run(dp.start_polling(bot))",
+        "detail": "test",
+        "documentation": {}
+    }
+]
